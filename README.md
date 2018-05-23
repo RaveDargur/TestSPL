@@ -5,6 +5,6 @@
 ### Inhalte
 
 * Grundlagen Git
-* Installation VM(Linux)
+* Installation VM(Linux Mint)
 * Update VM(Linux)
 * Grundlagen Python
