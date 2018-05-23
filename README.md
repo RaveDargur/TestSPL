@@ -6,4 +6,5 @@
 
 * Grundlagen Git
 * Installation VM(Linux)
+* Update VM(Linux)
 * Grundlagen Python
